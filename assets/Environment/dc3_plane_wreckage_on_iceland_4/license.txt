@@ -1,0 +1,11 @@
+Model Information:
+* title:	DC3 Plane Wreckage On Iceland (4)
+* source:	https://sketchfab.com/3d-models/dc3-plane-wreckage-on-iceland-4-e1f7e4a106f349f88a0a9cfe1c1712d9
+* author:	AndrasKis (https://sketchfab.com/AndrasKis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DC3 Plane Wreckage On Iceland (4)" (https://sketchfab.com/3d-models/dc3-plane-wreckage-on-iceland-4-e1f7e4a106f349f88a0a9cfe1c1712d9) by AndrasKis (https://sketchfab.com/AndrasKis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,62 @@
+{
+	"tags": null,
+	"position": [
+		0,
+		0,
+		0
+	],
+	"rotation": [
+		0,
+		0,
+		0
+	],
+	"scaling": [
+		1,
+		1,
+		1
+	],
+	"billboardMode": 0,
+	"scalingDeterminant": 1,
+	"infiniteDistance": false,
+	"ignoreNonUniformScaling": false,
+	"reIntegrateRotationIntoRotationQuaternion": false,
+	"name": "SceneManager",
+	"id": "55d4b739-fc75-4278-b3d5-778cb15f8b0f",
+	"state": "",
+	"metadata": {
+		"script": {
+			"name": "src/scenes/ScenePhysicsSetup.ts",
+			"properties": {
+				"Wreckage": {
+					"type": "Node",
+					"value": "9a324e09-27ac-447f-8fff-ef8f3797638b"
+				},
+				"ground": {
+					"type": "Node",
+					"value": "cfee1584-5ca2-496b-9fa4-2b60d0dc5c72"
+				}
+			}
+		}
+	},
+	"type": "TransformNode",
+	"uniqueId": 231,
+	"localMatrix": {
+		"0": 1,
+		"1": 0,
+		"2": 0,
+		"3": 0,
+		"4": 0,
+		"5": 1,
+		"6": 0,
+		"7": 0,
+		"8": 0,
+		"9": 0,
+		"10": 1,
+		"11": 0,
+		"12": 0,
+		"13": 0,
+		"14": 0,
+		"15": 1
+	},
+	"isEnabled": true
+}

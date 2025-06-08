@@ -1,0 +1,79 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "lodCollider",
+			"id": "3708988f-c13d-435f-aebd-cc67a0023225",
+			"uniqueId": 7851,
+			"type": "Mesh",
+			"position": [
+				1,
+				1,
+				1
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"pivotMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": false,
+			"receiveShadows": false,
+			"billboardMode": 0,
+			"visibility": 0,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": null,
+			"parentId": "9a324e09-27ac-447f-8fff-ef8f3797638b",
+			"isUnIndexed": false,
+			"materialId": "default material",
+			"metadata": {
+				"collider": {
+					"type": "LOD"
+				},
+				"isPickable": false
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.5,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}

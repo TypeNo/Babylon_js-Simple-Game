@@ -1,0 +1,145 @@
+{
+	"materials": [],
+	"meshes": [
+		{
+			"name": "Dune",
+			"id": "cfee1584-5ca2-496b-9fa4-2b60d0dc5c72",
+			"uniqueId": 60,
+			"type": "GroundMesh",
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotationQuaternion": [
+				0,
+				0,
+				0,
+				1
+			],
+			"scaling": [
+				1,
+				1,
+				1
+			],
+			"localMatrix": {
+				"0": 1,
+				"1": 0,
+				"2": 0,
+				"3": 0,
+				"4": 0,
+				"5": 1,
+				"6": 0,
+				"7": 0,
+				"8": 0,
+				"9": 0,
+				"10": 1,
+				"11": 0,
+				"12": 0,
+				"13": 0,
+				"14": 0,
+				"15": 1
+			},
+			"isEnabled": true,
+			"isVisible": true,
+			"infiniteDistance": false,
+			"pickable": true,
+			"receiveShadows": true,
+			"billboardMode": 0,
+			"visibility": 1,
+			"checkCollisions": true,
+			"isBlocker": false,
+			"overrideMaterialSideOrientation": null,
+			"isUnIndexed": false,
+			"geometryId": "164de441-229d-4276-a522-dfa9a9980555",
+			"subMeshes": null,
+			"materialId": "b690af56-420b-42ca-b63e-572626ba92ee",
+			"metadata": {
+				"isPickable": false,
+				"script": {
+					"name": "src/scenes/Dune.ts",
+					"properties": {
+						"ground": {
+							"type": "Node",
+							"value": "cfee1584-5ca2-496b-9fa4-2b60d0dc5c72"
+						}
+					}
+				},
+				"renderingGroupId": 0,
+				"_waitingParentId": null
+			},
+			"instances": [],
+			"animations": [],
+			"ranges": [],
+			"layerMask": 268435455,
+			"alphaIndex": 1.7976931348623157e+308,
+			"hasVertexAlpha": false,
+			"overlayAlpha": 0.3,
+			"overlayColor": [
+				1,
+				0,
+				0
+			],
+			"applyFog": true,
+			"subdivisionsX": 1024,
+			"subdivisionsY": 1024,
+			"minX": -256,
+			"maxX": 256,
+			"minZ": -256,
+			"maxZ": 256,
+			"width": 512,
+			"height": 512,
+			"parentId": null,
+			"delayLoadingFile": "geometries/164de441-229d-4276-a522-dfa9a9980555.babylonbinarymeshdata",
+			"boundingBoxMaximum": [
+				256,
+				117.64705657958984,
+				256
+			],
+			"boundingBoxMinimum": [
+				-256,
+				75.29412078857422,
+				-256
+			],
+			"_binaryInfo": {
+				"positionsAttrDesc": {
+					"count": 3151875,
+					"stride": 3,
+					"offset": 0,
+					"dataType": 1
+				},
+				"normalsAttrDesc": {
+					"count": 3151875,
+					"stride": 3,
+					"offset": 12607500,
+					"dataType": 1
+				},
+				"uvsAttrDesc": {
+					"count": 2101250,
+					"stride": 2,
+					"offset": 25215000,
+					"dataType": 1
+				},
+				"indicesAttrDesc": {
+					"count": 6291456,
+					"stride": 1,
+					"offset": 33620000,
+					"dataType": 0
+				},
+				"subMeshesAttrDesc": {
+					"count": 1,
+					"stride": 5,
+					"offset": 58785824,
+					"dataType": 0
+				}
+			},
+			"positions": null,
+			"normals": null,
+			"uvs": null,
+			"hasUVs": true,
+			"indices": null
+		}
+	],
+	"multiMaterials": [],
+	"lods": []
+}
